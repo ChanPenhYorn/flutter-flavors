@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833090696026",
+    "project_id": "chanpenh-flutter-flavors",
+    "storage_bucket": "chanpenh-flutter-flavors.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833090696026:android:1c7ad3c45614e809817963",
+        "android_client_info": {
+          "package_name": "com.example.flutter_flavors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc88vLEOP4IwwYZbkP7SzgOPRjIXLilaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
